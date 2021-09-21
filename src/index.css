@@ -53,6 +53,7 @@ nav a:active {
   height: 50vh;
   min-height: 400px;
   padding: 1rem;
+  color: firebrick
 }
 
 #home {
